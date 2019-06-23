@@ -1,6 +1,6 @@
 <template>
     <div>
-        <Block-Header/>
+        <Header/>
         <div class="ui center aligned text container">
             <nuxt/>
         </div>
